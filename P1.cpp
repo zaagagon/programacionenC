@@ -3,7 +3,7 @@
 // al iniciar la progrmacion visual descarga las extensiones necesarias 
 
 //descarga 3 extensiones par la programacion en c /c++
-//otra prueba
+//otra pruebadsfd
 
 
 #include<stdio.h> 
